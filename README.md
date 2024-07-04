@@ -1,4 +1,11 @@
-# Online Banking Management System
+## Online Banking Management System
+# Welcome to Our project -_-
+An creative approach on how do we approach traditional banking services via using the core concepts of Operating system
+
+Teammates:-) 1)Tushar kanda (https://github.com/Tusharkanda) 
+            mail :- tusharkanda.221ai042@nitk.edu.in
+            2) Priyanshu maniyar(https://github.com/priyanshu-Maniyar)
+            mail:- priyanshumaniyar.221ai023@nitk.edu.in
 
 The project is a simulation of the online banking system. The server handles each client request with help of multi-threading concept. Clients' information along with account details and balance amount is stored in the database files (.txt files). Semaphores are used to synchronize user operations. There are three types of users - Administrators, Normal users, and Joint account users. File locking concept is also used to synchronize file manipulations for joint account user operations.
 
