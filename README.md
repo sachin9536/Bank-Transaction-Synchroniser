@@ -1,4 +1,4 @@
-## Online Banking Management System
+## Bank Transaction Synchroniser
 # Welcome to Our project -_-
 An creative approach on how do we approach traditional banking services via using the core concepts of Operating system
 
